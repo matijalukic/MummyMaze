@@ -9,8 +9,8 @@ MummyMaze classic game with random generated levels and multiple mummies. Used C
 
 ## Authors
 
-* Matija Lukić
-* Jakov Jezdić
+* [Matija Lukić](https://github.com/matijalukic)
+* [Jakov Jezdić](https://github.com/jakovj)
 * Stefan Matić
 
 ## License
